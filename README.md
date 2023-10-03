@@ -7,5 +7,5 @@ This was an exploration into taking data for applicants of a non-profit organiza
 *Preprocessing*
 - Target Variable: "IS_SUCCESSFUL"
 - Featured Variables: Nearly every other column that was present in the original dataset
-![Alt text](/images/application.png?raw=true)
-![Alt text](/images/classification.png?raw=true)
+![Alt text](Images/application.png?raw=true)
+![Alt text](Images/classification.png?raw=true)
